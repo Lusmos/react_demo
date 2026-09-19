@@ -12,8 +12,6 @@ dist
 dist-ssr
 *.local
 
-#.env variables should be safe
-
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
